@@ -5,6 +5,9 @@
       "websiteURL": "https://github.com/Bmooij/Arduino_Core_STM32",
       "maintainer": "BMooij",
       "email": "",
+	  "help": {
+        "online": "https://github.com/Bmooij/Arduino_Core_STM32"
+      },
       "platforms": [
 		{
           "name": "STM32 Cores Extention",
