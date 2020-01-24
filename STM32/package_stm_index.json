@@ -1021,12 +1021,12 @@
 		{
           "name": "STM32 Cores",
           "architecture": "stm32",
-          "version": "1.8.1",
+          "version": "1.8.0.1",
           "category": "Contributed",
-		  "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/1.8.0/STM32-1.8.0.tar.bz2",
-          "archiveFileName": "STM32-1.8.0.tar.bz2",
-          "checksum": "SHA-256:756d39fab2ca5c0bf857b64153a265dd7ef2c151464bd248d6ca94ee05ca8fe7",
-          "size": "29132822",
+		  "url": "https://github.com/Bmooij/Arduino_Core_STM32/releases/download/1.8.0.1/STM32-1.8.0.1.zip",
+          "archiveFileName": "STM32-1.8.0.1.zip",
+		  "checksum": "SHA-256:781135057a5cd5674ad00d88b6cc3839e8787ba1b070f0668bb146942642e61a",
+          "size": "42356388",
           "boards": [
             {"name": "Nucleo F207ZG"},
             {"name": "Nucleo F429ZI"},
