@@ -1,13 +1,10 @@
 {
   "packages": [
     {
-      "name": "STM32",
-      "websiteURL": "http://www.st.com/en/microcontrollers.html",
-      "maintainer": "STMicroelectronics",
+      "name": "STM32 Extention",
+      "websiteURL": "",
+      "maintainer": "BMooij",
       "email": "",
-      "help": {
-        "online": "http://www.stm32duino.com/"
-      },
       "platforms": [
         {
           "name": "STM32 Cores",
@@ -1019,7 +1016,7 @@
           ]
         },
 		{
-          "name": "STM32 Cores",
+          "name": "STM32 Cores Extention",
           "architecture": "stm32",
           "version": "1.8.0.1",
           "category": "Contributed",
