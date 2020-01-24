@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "STM32 Extention",
-      "websiteURL": "",
+      "websiteURL": "https://github.com/Bmooij/Arduino_Core_STM32",
       "maintainer": "BMooij",
       "email": "",
       "platforms": [
