@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/Bmooij/Arduino_Core_STM32/releases/download/1.8.0.1/STM32-1.8.0.1.zip",
           "archiveFileName": "STM32-1.8.0.1.zip",
-          "checksum": "SHA-256:781135057A5CD5674AD00D88B6CC3839E8787BA1B070F0668BB146942642E61A",
+          "checksum": "SHA-256:781135057a5cd5674ad00d88b6cc3839e8787ba1b070f0668bb146942642e61a",
           "size": "42356388",
           "boards": [
             {"name": "Nucleo F207ZG"},
