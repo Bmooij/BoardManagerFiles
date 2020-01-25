@@ -1019,9 +1019,9 @@
           ]
         },
 		{
-          "name": "STM32 Cores",
+          "name": "STM32 Cores Extention",
           "architecture": "stm32",
-          "version": "1.8.0.1",
+          "version": "1.0.0",
           "category": "Contributed",
 		  "url": "https://github.com/Bmooij/Arduino_Core_STM32/releases/download/1.8.0.1/STM32-1.8.0.1.zip",
           "archiveFileName": "STM32-1.8.0.1.zip",
